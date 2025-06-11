@@ -131,7 +131,7 @@ plt.show()
 
 ### Results
 
-![Trending Top Skills for Data Analysts in Canada](3_Project\images\top_skills_trend.png)
+![Trending Top Skills for Data Analysts in Canada](3_Project/images/top_skills_trend.png)
 *Line graph visualizing the trending top skills for data analysts in Canada in 2023*
 
 ### Insights
@@ -163,7 +163,7 @@ plt.show()
 
 ### Results
 
-![Salary Distribution in Canada](3_Project\images\salary_distibution_in_canada.png)
+![Salary Distribution in Canada](3_Project/images/salary_distibution_in_canada.png)
 
 
 *Box plot visualizing the salary distribution for various data tech positions in Canada in 2023*
@@ -192,7 +192,7 @@ plt.show()
 
 ### Results
 
-![Salary Distribution in Canada](3_Project\images\skills_vs_pay.png)
+![Salary Distribution in Canada](3_Project/images/skills_vs_pay.png)
 
 
 *Horizontal Bar Charts visualizing the Top 10 Highest Paid Skills for Data Analysts in Canada in 2023*
@@ -228,7 +228,7 @@ plt.show()
 
 ### Results
 
-![Most Optimal Skills for Data Analysts in Canada](3_Project\images\optimal_skills.png)
+![Most Optimal Skills for Data Analysts in Canada](3_Project/images/optimal_skills.png)
 
 
 *Scatter Plot visualizing the most optimal skills for data analysts categorized by technology in Canada in 2023*
