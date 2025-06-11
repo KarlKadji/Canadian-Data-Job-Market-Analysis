@@ -79,7 +79,6 @@ To find the most demanded skills for the top 3 most popular data roles, I filter
 
 View my notebook with detailed steps here: [2_Skill_Demand.ipynb](3_Project\2_Skills_Demand.ipynb)
 
-
 ### Visualize Data
 ```python
 fig,ax = plt.subplots(len(job_titles),1)
@@ -96,6 +95,7 @@ plt.show()
 ### Results
 ![Likelihood of Skills requested in Canadian Job Postings](3_Project/images/skill_demand_all_data_roles.png)
 
+*Bar Chart visualizing the likelihood of skills requested in the Canadian data job market*
 
 ### Insights
 - SQL is the most requested skill for all three roles of Data Analyst, Data Engineer, and Senior Data Engineer, with the skill being in more than half of the job postings for the top 3 roles.
@@ -132,6 +132,7 @@ plt.show()
 ### Results
 
 ![Trending Top Skills for Data Analysts in Canada](3_Project/images/top_skills_trend.png)
+
 *Line graph visualizing the trending top skills for data analysts in Canada in 2023*
 
 ### Insights
